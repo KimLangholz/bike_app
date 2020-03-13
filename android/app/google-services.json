@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "381357951899",
+    "firebase_url": "https://bikeappeasv.firebaseio.com",
+    "project_id": "bikeappeasv",
+    "storage_bucket": "bikeappeasv.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381357951899:android:422c43ccf62e6f71f42f3e",
+        "android_client_info": {
+          "package_name": "com.example.bike_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381357951899-mtciqdcparknh2vbfgo8hm9a4gmbgnpu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-uhW8RU8hNYjzS0KR3kwGDWcz8M_uMY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381357951899-mtciqdcparknh2vbfgo8hm9a4gmbgnpu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "381357951899-7vlr3vhd991boob8vt7g1ien7nt599v6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "southbasedSolutions.bikeApp.2020"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
