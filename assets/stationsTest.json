@@ -1,0 +1,136 @@
+{
+    "stations": [
+        {
+            "id": "1",
+            "address": "Alsion 2\n6400 Sønderborg\n",
+            "lat": 54.913042,
+            "lng": 9.778962,
+            "image": "https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX29213545.jpg",
+            "spaces": [
+                {
+                    "id": 1,
+                    "available": "no",
+                    "user": "kimlangholz@gmail.dk"
+                },
+                {
+                    "id": 2,
+                    "available": "yes",
+                    "user": ""
+                },
+                {
+                    "id": 3,
+                    "available": "yes",
+                    "user": ""
+                },
+                {
+                    "id": 4,
+                    "available": "yes",
+                    "user": ""
+                },
+                {
+                    "id": 5,
+                    "available": "yes",
+                    "user": ""
+                },
+                {
+                    "id": 6,
+                    "available": "yes",
+                    "user": ""
+                },
+                {
+                    "id": 7,
+                    "available": "yes",
+                    "user": ""
+                },
+                {
+                    "id": 8,
+                    "available": "yes",
+                    "user": ""
+                },
+                {
+                    "id": 9,
+                    "available": "yes",
+                    "user": ""
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "address": "Østergade 3\n6400 Sønderborg\n",
+            "lat": 54.9085,
+            "lng": 9.792217,
+            "image": "https://images.unsplash.com/photo-1444723121867-7a241cacace9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80",
+            "spaces": [{
+                "id": 1,
+                "available": "yes",
+                "user": ""
+            },
+            {
+                "id": 2,
+                "available": "yes",
+                "user": ""
+            },
+            {
+                "id": 3,
+                "available": "yes",
+                "user": ""
+            },
+            {
+                "id": 4,
+                "available": "yes",
+                "user": ""
+            },
+            {
+                "id": 5,
+                "available": "yes",
+                "user": ""
+            },
+            {
+                "id": 6,
+                "available": "yes",
+                "user": ""
+            },
+            {
+                "id": 7,
+                "available": "yes",
+                "user": ""
+            },
+            {
+                "id": 8,
+                "available": "yes",
+                "user": ""
+            },
+            {
+                "id": 9,
+                "available": "yes",
+                "user": ""
+            }
+            ]
+        },
+        {
+            "id": "3",
+            "address": "Kløvermarken 2A\n6400 Sønderborg\n",
+            "lat": 54.912552,
+            "lng": 9.812391,
+            "image": "https://images.unsplash.com/photo-1521078803125-7efd09b65b8f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80",
+            "spaces": [
+                {
+                    "id": 1,
+                    "available": "no",
+                    "user": "kim1@langholz.dk"
+                },
+                {
+                    "id": 2,
+                    "available": "no",
+                    "user": "kim2@langholz.dk"
+                },
+                {
+                    "id": 3,
+                    "available": "no",
+                    "user": "kim3@langholz.dk"
+                }
+                
+            ]
+        }
+    ]
+}

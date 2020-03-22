@@ -14,8 +14,8 @@ void main() {
   final UserRepository userRepository = UserRepository();
   runApp(
     BlocProvider(
-      create: (context) => AuthenticationBloc(userRepository: userRepository)
-        ..add(AppStarted()),
+      create: (context) =>
+          AuthenticationBloc(userRepository: userRepository)..add(AppStarted()),
       child: App(userRepository: userRepository),
     ),
   );
@@ -43,6 +43,7 @@ class App extends StatelessWidget {
           if (state is Authenticated) {
             return HomeScreen(name: state.displayName);
           }
+          return SplashScreen();
         },
       ),
     );
